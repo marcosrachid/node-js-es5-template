@@ -1,8 +1,8 @@
 # node-js-template
 
-Node application template to start applications
+Node.JS application template to start applications
 
-Modules
+Modules  | Version
 ------------- | -------------
 body-parser  | 1.18.2
 consign  | 0.1.6
